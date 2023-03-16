@@ -1,1 +1,1 @@
-# Moved to https://github.com/libp2p/universal-connectivity
+# Moved to [libp2p/universal-connectivity](https://github.com/libp2p/universal-connectivity)
